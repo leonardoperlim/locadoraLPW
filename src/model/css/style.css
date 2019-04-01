@@ -1,0 +1,26 @@
+body{
+    max-width: 80%;
+    min-width: 20%;
+    margin: 0 auto;
+}
+#imgHome{
+    margin-top: 0px;
+}
+
+div#menu{
+    background-color: #12808D;
+}
+div#menu a{
+    color: white;
+    text-decoration: none; 
+    margin-right: 20px; 
+    font-weight: bold;
+}
+
+div#pesquisa{
+    margin-bottom: 20px;
+}
+
+button#btnAzul{
+    background-color: #12808D;
+}
